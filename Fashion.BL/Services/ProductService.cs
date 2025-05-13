@@ -1,4 +1,5 @@
 ﻿using Fashion.BL.Exceptions;
+using Fashion.BL.ViewModels;
 using Fashion.DAL.Contexts;
 using Fashion.DAL.Models;
 using Fashion.MVC.ViewModels;
@@ -36,7 +37,7 @@ public class ProductService
         string extension = Path.GetExtension(pro.ImgFile.FileName);
         string resultName = fileName + Guid.NewGuid().ToString() + extension;
 
-        string uploadedPath = $"C:\\Users\\User\\source\\repos\\CarVilla\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages";
+        string uploadedPath = $"C:\\Users\\User\\Desktop\\Fashion\\Fashion.MVC\\wwwroot\\assets\\UploadedImages";
 
         uploadedPath = Path.Combine(uploadedPath, resultName);
         using FileStream stream = new FileStream(uploadedPath, FileMode.Create);
@@ -83,21 +84,32 @@ public class ProductService
 
     #region Update
 
-    public void Update(int id, Product product)
+    public void Update(int id, UpdateProductVM pro)
     {
-        if (product.Id != id)
-        {
-            throw new ProductException($"idler ust uste dusmur");
-        }
+       
         Product? basepro = _context.Products.Find(id);
         if (basepro is null)
         {
             throw new ProductException($"database de {id} idli data yoxdu");
         }
-        basepro.ShortDescription = product.ShortDescription;
-        basepro.Price = product.Price;
-        basepro.Name = product.Name;
-        basepro.Imgurl = product.Imgurl;
+        basepro.ShortDescription = pro.ShortDescription;
+        basepro.Price = pro.Price;
+        basepro.Name = pro.Name;
+
+        if (pro.ImgFile != null)
+        {
+            string fileName = Path.GetFileNameWithoutExtension(pro.ImgFile.FileName);
+            string extension = Path.GetExtension(pro.ImgFile.FileName);
+            string resultName = fileName + Guid.NewGuid().ToString() + extension;
+
+            string uploadedPath = $"C:\\Users\\User\\Desktop\\Fashion\\Fashion.MVC\\wwwroot\\assets\\UploadedImages";
+
+            uploadedPath = Path.Combine(uploadedPath, resultName);
+            using FileStream stream = new FileStream(uploadedPath, FileMode.Create);
+            pro.ImgFile.CopyTo(stream);
+            basepro.Imgurl = resultName;
+        }
+        _context.SaveChanges();
     }
     #endregion
 
@@ -110,6 +122,7 @@ public class ProductService
             throw new ProductException($"database de {id} idli data yoxdu");
         }
         _context.Products.Remove(pro);
+        _context.SaveChanges();
     }
 
     #endregion

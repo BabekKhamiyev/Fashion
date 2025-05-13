@@ -13,3 +13,19 @@ C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.DAL.d
 C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.DAL.pdb
 C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.csproj.AssemblyReference.cache
 C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.csproj.Up2Date
+C:\Users\User\Desktop\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.BL.deps.json
+C:\Users\User\Desktop\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.BL.dll
+C:\Users\User\Desktop\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.BL.pdb
+C:\Users\User\Desktop\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.DAL.dll
+C:\Users\User\Desktop\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.DAL.pdb
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.AssemblyInfo.cs
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.sourcelink.json
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.csproj.Up2Date
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.dll
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\refint\Fashion.BL.dll
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.pdb
+C:\Users\User\Desktop\Fashion\Fashion.BL\obj\Debug\net8.0\ref\Fashion.BL.dll

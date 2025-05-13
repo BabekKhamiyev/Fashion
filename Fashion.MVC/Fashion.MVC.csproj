@@ -18,4 +18,8 @@
     <ProjectReference Include="..\Fashion.BL\Fashion.BL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\assets\UploadedImages\" />
+  </ItemGroup>
+
 </Project>
