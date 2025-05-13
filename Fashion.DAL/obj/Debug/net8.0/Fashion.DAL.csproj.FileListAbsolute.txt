@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\bin\Debug\net8.0\Fashion.DAL.deps.json
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\bin\Debug\net8.0\Fashion.DAL.dll
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\bin\Debug\net8.0\Fashion.DAL.pdb
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\Fashion.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\Fashion.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\Fashion.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\Fashion.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\Fashion.DAL.dll
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\refint\Fashion.DAL.dll
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\Fashion.DAL.pdb
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\ref\Fashion.DAL.dll
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\bin\Debug\net8.0\Fashion.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\Fashion.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\Fashion\Fashion.DAL\obj\Debug\net8.0\Fashion.DAL.genruntimeconfig.cache

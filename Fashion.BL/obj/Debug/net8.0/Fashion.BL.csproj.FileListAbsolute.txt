@@ -1,0 +1,15 @@
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.BL.deps.json
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.BL.dll
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.BL.pdb
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.dll
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\refint\Fashion.BL.dll
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.pdb
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\ref\Fashion.BL.dll
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.DAL.dll
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\bin\Debug\net8.0\Fashion.DAL.pdb
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\Fashion\Fashion.BL\obj\Debug\net8.0\Fashion.BL.csproj.Up2Date
