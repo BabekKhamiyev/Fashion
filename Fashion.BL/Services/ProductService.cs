@@ -14,7 +14,7 @@ namespace Fashion.BL.Services;
 
 public class ProductService
 {
-    private AppDbContext _context;
+    private readonly AppDbContext _context;
     public ProductService()
     {
         _context = new AppDbContext();
